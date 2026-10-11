@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+torch
+torchvision
+diffusers
+transformers
+accelerate
+controlnet-aux
+pillow
+python-multipart
